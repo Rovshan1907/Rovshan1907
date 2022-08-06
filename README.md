@@ -21,8 +21,10 @@ I am good at core Java, Selenium Webdriver, Maven, TestNG, Cucumber and many mor
 📈 Solid experience in working with version control system Git and used source code management client tools like GitHub.  
 
 I am highly proficient in various testing types including like  functional, regression and smoke testing. 
-Used Apache POI for reading and writing MS Excel files to maintain Data-Driven Framework. 
-Experienced in REST API using POSTMAN and REST-Assured. 
+Used Apache POI for reading and writing MS Excel files to maintain Data-Driven Framework.
+
+Experienced in REST API using POSTMAN and REST-Assured.
+
 Strong skills in Backend Testing using SQL queries on Oracle and Postgres servers and connected using JDBC.
 
 As a cross-functional agile team member, I join different types of scrum ceremonies like grooming, planning, daily stand up, demo and retro. 
